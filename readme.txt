@@ -2,8 +2,8 @@
 Contributors: bdroppy
 Tags: ecommerce, e-commerce, store, sales, sell, shop, brandsdistribution, brands, bdroppy, sync, dropship
 Requires at least: 5.7
-Tested up to: 6.1.1
-Stable tag: 2.7.41
+Tested up to: 6.5
+Stable tag: 2.7.42
 Requires PHP: 7.2.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
