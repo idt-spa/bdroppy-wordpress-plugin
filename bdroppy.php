@@ -3,12 +3,12 @@
  * Plugin Name:       BDroppy
  * Plugin URI:        https://wordpress.org/plugins/bdroppy/
  * Description:       BDroppy Plugin
- * Version:           2.7.41
+ * Version:           2.7.42
  * Author:            BDroppy Development Team
- * Author URI:        http://bdroppy.com
+ * Author URI:        https://bdroppy.com
  * License:           MIT
  *
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
@@ -30,7 +30,7 @@ class BDroppyMain {
     private function __construct()
     {
         define( 'BDROPPY_NAME', 'BDroppy' );
-        define( 'BDROPPY_VERSION', '2.7.40' );
+        define( 'BDROPPY_VERSION', '2.7.41' );
         define( 'BDROPPY_DB_VERSION', 16 );
 
 
